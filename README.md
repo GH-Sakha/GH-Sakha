@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm GH-Sakha 👋 - Welcome to my GitHub!
 
-<!--
-**GH-Sakha/GH-Sakha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔥 I just completed my Git Journey from 0 to Pull Request!
+- 🌱 Learning: Git, GitHub, and Software Development
+- 💻 My first repo: [git-try](https://github.com/GH-Sakha/git-try) - 4 Phases Completed!
+- 🛠️ Skills: `git init` `branch` `merge` `conflict solving` `PR` `push/pull`
+- 🎯 Goal: To become a Professional Developer
 
-Here are some ideas to get you started:
+---
+**My Git Story:**
+Started with `git init`, faced merge conflicts, pushed to GitHub, and finally merged my first Pull Request!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for visiting! ✨
